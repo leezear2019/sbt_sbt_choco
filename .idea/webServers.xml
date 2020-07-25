@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="96999e79-f439-4264-bb05-cfaa6e490985" name="实验室个人Docker" url="http://59.72.109.14">
+        <fileTransfer host="59.72.109.14" port="9982" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="9982" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="59.72.109.14" id="75e8761f-e430-45e1-bdb9-38996407bcbb" port="9982" customName="实验室个人Docker" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="59.72.109.14" id="8ead94de-27e1-4bc1-b0e7-33470e82fcce" port="9982" customName="实验室个人Docker" nameFormat="CUSTOM" username="root" />
+    </configs>
+  </component>
+</project>
